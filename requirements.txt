@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pydantic
+aiohttp
+python-multipart
+requests
+PyPDF2
+numpy
+sentence-transformers
+faiss-cpu
+google-generativeai
+cohere
